@@ -244,7 +244,7 @@ void menu(){
   
   fill(255);
   textSize(72);
-  text("Bienvenidos a Doc Tops", 300,75);
+  text("Bienvenidos a MinimHero", 300,75);
 
   textSize(32);
   text("Cancion Seleccionada: " + audioPlay, 300,120);
